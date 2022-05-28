@@ -88,10 +88,11 @@ p span{
     bottom:0;
     background: rgba(0, 0, 0, 0.7);;
 }
-.banner_item h5{
+.banner_item h5 {
     color: #ffffff;
     font-size: 30px;
     font-weight: 800;
+    margin-bottom: 5px;
     /* font-family: 'Open Sans', sans-serif; */
 }
 .banner_item h4{
@@ -127,12 +128,12 @@ p span{
 #about{
     margin: 100px 0;
 }
-.about_heading{
+.about_heading {
     text-align: center;
-    margin-bottom: 80px;
+    margin-bottom: 75px;
 }
-.about_heading h2{
-    padding-bottom: 10px;
+.about_heading h2 {
+    padding-bottom: 20px;
 }
 .about_heading img{
     margin-bottom: 28px;
@@ -193,8 +194,8 @@ p span{
     margin: 100px 0;
 }
 
-.work_heading h2{
-    padding-bottom: 13px;
+.work_heading h2 {
+    padding-bottom: 23px;
 }
 .work_heading p{
     margin-bottom: 80px;
