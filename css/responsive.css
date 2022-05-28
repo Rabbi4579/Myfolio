@@ -64,8 +64,14 @@
         padding-top: 35px;
         padding-bottom: 62px;
     }
+    .service_heading h2 {
+        margin-bottom: 20px;
+    }
+    .service_heading h2{
+        font-size: 36px;
+    }
     .service_heading img {
-        margin-top: 22px;
+        
         margin-bottom: 22px;
     }
 
@@ -90,6 +96,7 @@
     /* ----contact part----- */
     .contact_heading h2 {
         font-size: 36px;
+    
     }
     .contact_heading h2 {
         margin-bottom: 20px;

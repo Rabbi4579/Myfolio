@@ -175,9 +175,10 @@ p span{
     padding-top: 50px;
     padding-bottom: 80px;
 }
-
+.service_heading h2{
+    margin-bottom:20px;
+}
 .service_heading img{
-    margin-top: 30px;
     margin-bottom: 25px;
 }
 
