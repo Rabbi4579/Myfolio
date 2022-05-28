@@ -3,7 +3,7 @@
         height: auto;
     }
 }
-asdkl;fhaa
+
 
 @media(min-width:1200px) and (max-width:1399.98px){
 
@@ -29,5 +29,11 @@ asdkl;fhaa
 
 
 @media(max-width:575.98px){
+    .custom_nav {
+        padding: 5px 0;
+    }
 
+    #my_nav ul li {
+        padding: 7px 0px;
+    }
 }
