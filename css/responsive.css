@@ -29,16 +29,22 @@
 
 
 @media(max-width:575.98px){
+    /* -----menu part----- */
     .custom_nav {
-        padding: 8px 0;
+        padding: 12px 0;
     }
 
     #my_nav ul li {
         padding: 7px 0px;
     }
+    /* ---about part----- */
     #about {
-        margin-top: 60px;
-        margin-bottom: 40px;
+        margin-top: 67px;
+        margin-bottom: 30px;
+    }
+    .about_item h3 {
+        margin-top: 25px;
+        margin-bottom: 18px;
     }
 
     .about_heading h2 {
@@ -48,15 +54,15 @@
         display: none;
     }
     .about_heading {
-        margin-bottom: 70px;
+        margin-bottom: 58px;
     }
     .about_item i {
         padding-top: 10px;
     }
-
+    /* service part */
     #service {
-        padding-top: 25px;
-        padding-bottom: 63px;
+        padding-top: 35px;
+        padding-bottom: 62px;
     }
     .service_heading img {
         margin-top: 22px;
