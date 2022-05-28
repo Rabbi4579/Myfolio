@@ -194,11 +194,13 @@ p span{
 
 /* -----work part start------ */
 #work{
-    margin: 100px 0;
+    margin-top: 100px;
+    margin-bottom: 100px;
 }
 
 .work_heading h2 {
     padding-bottom: 23px;
+    font-size: 46px;
 }
 .work_heading p{
     margin-bottom: 80px;
@@ -248,8 +250,16 @@ p span{
 
 /* -----contact part start------ */
 
+.contact_heading h2{
+    font-size:46px;
+}
 
-
+.contact_heading h2{
+    margin-bottom:23px;
+}
+ .contact_heading img{
+    margin-bottom: 28px;
+}
 .contact_bottom{
     background: #000000;
     padding-top: 35px;
