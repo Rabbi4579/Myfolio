@@ -23,6 +23,28 @@
 
 
 @media(min-width:576px) and (max-width:767.98px){
+    /* ----menu part----- */
+    #my_nav ul li {
+        padding: 10px 0px;
+    }
+
+    /* -=----about part----- */
+    #about {
+        margin-top: 88px;
+        margin-bottom: 78px;
+    }
+    .about_heading {
+        margin-bottom: 65px;
+    }
+    .about_item i {
+        padding-top: 25px;
+    }
+
+    /* ------work part ----- */
+    #work {
+        margin-top: 88px;
+        margin-bottom: 95px;
+    }
 
 }
 
@@ -103,5 +125,8 @@
     }
     .contact_heading img {
         margin-bottom: 28px;
+    }
+    .contact_heading {
+        margin-bottom: 70px;
     }
 }

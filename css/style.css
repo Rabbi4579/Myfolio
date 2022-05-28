@@ -163,6 +163,9 @@ p span{
 .border_item:last-child{
     border-right: none;
 }
+.border_item {
+	border-right: none;
+}
 /* -----about part end------ */
 
 /* -----service part start------ */
@@ -251,6 +254,9 @@ p span{
 
 /* -----contact part start------ */
 
+.contact_heading{
+    margin-bottom: 75px;
+}
 .contact_heading h2{
     font-size:46px;
 }
