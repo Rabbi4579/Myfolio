@@ -30,10 +30,20 @@
 
 @media(max-width:575.98px){
     .custom_nav {
-        padding: 5px 0;
+        padding: 8px 0;
     }
 
     #my_nav ul li {
         padding: 7px 0px;
+    }
+    #about {
+        margin: 60px 0;
+    }
+
+    .about_heading h2 {
+        font-size: 36px;
+    }
+    .about_heading p span {
+        display: none;
     }
 }

@@ -55,6 +55,7 @@ p span{
     background: #02918c;
    
 }
+
 #my_nav ul li{
     padding: 12px 13px;
 }
@@ -134,6 +135,7 @@ p span{
 }
 .about_heading h2 {
     padding-bottom: 20px;
+    font-size:46px;
 }
 .about_heading img{
     margin-bottom: 28px;
