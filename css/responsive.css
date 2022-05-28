@@ -17,7 +17,63 @@
 
 
 @media(min-width:768px) and (max-width:991.98px){
+    /* ----menu part----- */
+    #my_nav ul li {
+        padding: 12px 0px;
+    }
 
+    /* ----banner part --- */
+    .banner_item h5 {
+        font-size: 22px;
+        margin-bottom: 4px;
+    }
+    .banner_item h4 {
+        font-size: 35px;
+        letter-spacing: 14px;
+    }
+    .banner_item p {
+        font-size: 16px;
+    }
+    .banner_item p {
+        margin-bottom: 33px;
+    }
+    .banner_item a {
+        margin-top: 45px;
+    }
+
+    /* ----about part ---- */
+    #about {
+        margin-top: 90px;
+        margin-bottom: 80px;
+    }
+    .border_item {
+        border-right: none;
+    }
+    .about_item h3 {
+        margin-top: 18px;
+    }
+
+    /* ----work part----- */
+    #work {
+        margin-top: 90px;
+        margin-bottom: 95px;
+    }
+
+    .work_heading p {
+        padding: 0 21px;
+    }
+    .overly .overly_content p {
+        padding: 0 159px;
+    }
+
+    /* -----service part------ */
+    .service_heading p {
+        padding-right: 108px;
+    }
+    /* -----contact part------ */
+    .contact_heading p {
+        padding: 0 21px;
+    }
 }
 
 
@@ -31,7 +87,7 @@
     /* -=----about part----- */
     #about {
         margin-top: 88px;
-        margin-bottom: 78px;
+        margin-bottom: 70px;
     }
     .about_heading {
         margin-bottom: 65px;
@@ -39,7 +95,12 @@
     .about_item i {
         padding-top: 25px;
     }
-
+    .border_item {
+        border-right: none;
+    }
+    .about_item h3 {
+        margin-top: 25px;
+    }
     /* ------work part ----- */
     #work {
         margin-top: 88px;
@@ -81,9 +142,15 @@
     .about_item i {
         padding-top: 10px;
     }
+    .border_item {
+        border-right: none;
+    }
+    .about_item h3 {
+        margin-top: 18px;
+    }
     /* service part */
     #service {
-        padding-top: 35px;
+        padding-top: 45px;
         padding-bottom: 62px;
     }
     .service_heading h2 {
