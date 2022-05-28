@@ -37,7 +37,8 @@
         padding: 7px 0px;
     }
     #about {
-        margin: 60px 0;
+        margin-top: 60px;
+        margin-bottom: 40px;
     }
 
     .about_heading h2 {
@@ -45,5 +46,20 @@
     }
     .about_heading p span {
         display: none;
+    }
+    .about_heading {
+        margin-bottom: 70px;
+    }
+    .about_item i {
+        padding-top: 10px;
+    }
+
+    #service {
+        padding-top: 25px;
+        padding-bottom: 63px;
+    }
+    .service_heading img {
+        margin-top: 22px;
+        margin-bottom: 22px;
     }
 }
