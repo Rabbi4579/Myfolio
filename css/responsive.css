@@ -57,7 +57,7 @@
     }
 
     #my_nav ul li {
-        padding: 7px 40px;
+        padding: 7px 0px;
     }
     /* ---about part----- */
     #about {
@@ -127,6 +127,6 @@
         margin-bottom: 28px;
     }
     .contact_heading {
-        margin-bottom: 80px;
+        margin-bottom: 70px;
     }
 }
