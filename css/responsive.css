@@ -259,4 +259,8 @@
     .preloader_inner img {
         width: 360px;
     }
+
+    .backTop {
+        right: 20px;
+    }
 }

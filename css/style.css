@@ -338,7 +338,7 @@ p span{
     top: 0;
     
 }
-/* .preloader_main{
+.preloader_main{
     position: fixed;
     left: 0;
     top: 0;
@@ -352,7 +352,7 @@ p span{
     left: 50%;
     top: 50%;
     transform: translate(-50%,-50%);
-} */
+}
 .preloader_inner img{
 
 }
