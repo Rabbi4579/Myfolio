@@ -126,6 +126,10 @@
     .preloader_inner img {
         width: 700px;
     }
+
+    .backTop {
+        right: 25px;
+    }
 }
 
 
@@ -164,6 +168,9 @@
 
     .preloader_inner img {
         width: 500px;
+    }
+    .backTop {
+        right: 23px;
     }
 
 }
@@ -261,6 +268,6 @@
     }
 
     .backTop {
-        right: 20px;
+        right: 15px;
     }
 }
