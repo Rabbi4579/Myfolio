@@ -15,7 +15,7 @@ $(function(){
 
         // backtop button js
 
-       if(winscroll > 300){
+       if(winscroll > 1000){
         $('.backTop').fadeIn(1000);
 
     }else{
