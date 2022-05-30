@@ -338,3 +338,21 @@ p span{
     top: 0;
     
 }
+.preloader_main{
+    position: fixed;
+    left: 0;
+    top: 0;
+    right:0;
+    bottom: 0;
+    background: #ffffff;
+    z-index: 99999;
+}
+.preloader_inner{
+    position:absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+}
+.preloader_inner img{
+    
+}

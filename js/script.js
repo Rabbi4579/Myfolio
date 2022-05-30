@@ -12,4 +12,9 @@ $(function(){
             $('.custom_nav').removeClass('menu_fixed')
         }
     })
+
+    // preloader js
+    $(window).on('load', function(){
+        $('.preloader_main').delay(2000).fadeOut(1000)
+    })
 })

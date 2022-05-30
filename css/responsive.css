@@ -53,6 +53,10 @@
     .about_heading {
         padding: 0 24px;
     }
+
+    .preloader_inner img {
+        width: 750px;
+    }
 }
 
 
@@ -118,6 +122,10 @@
     .contact_heading p {
         padding: 0 21px;
     }
+
+    .preloader_inner img {
+        width: 700px;
+    }
 }
 
 
@@ -152,6 +160,10 @@
     #work {
         margin-top: 88px;
         margin-bottom: 95px;
+    }
+
+    .preloader_inner img {
+        width: 500px;
     }
 
 }
@@ -242,5 +254,9 @@
     }
     .contact_heading {
         margin-bottom: 70px;
+    }
+
+    .preloader_inner img {
+        width: 360px;
     }
 }
