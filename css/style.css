@@ -338,7 +338,7 @@ p span{
     top: 0;
     
 }
-.preloader_main{
+/* .preloader_main{
     position: fixed;
     left: 0;
     top: 0;
@@ -352,7 +352,28 @@ p span{
     left: 50%;
     top: 50%;
     transform: translate(-50%,-50%);
-}
+} */
 .preloader_inner img{
+
+}
+
+.backTop{
+    width: 30px;
+    height: 40px;
+    background:#cfc91d;
+    border-radius: 5px;
+    text-align: center;
+    line-height: 40px;
+    right: 30px;
+    bottom: 30px;
+    position: fixed;
+    cursor: pointer;
+    display: none;
+}
+
+.backTop p{
+    line-height: 40px;
+    color: #0b0b0b;
+    font-size:25px;
     
 }

@@ -11,6 +11,24 @@ $(function(){
         }else{
             $('.custom_nav').removeClass('menu_fixed')
         }
+
+
+        // backtop button js
+
+       if(winscroll > 300){
+        $('.backTop').fadeIn(1000);
+
+    }else{
+        $('.backTop').fadeOut(1000);
+    }
+        
+    })
+
+     // backtop button js
+     $('.backTop').on('click',function(){
+        $('html,body').animate({
+            scrollTop:0
+        },1000)
     })
 
     // preloader js
